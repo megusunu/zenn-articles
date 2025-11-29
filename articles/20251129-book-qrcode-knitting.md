@@ -138,8 +138,6 @@ https://x.com/gishohaku/status/1789506722778018071
 - [物理本（500円）](https://checkout.square.site/merchant/ML2WKTF6V60HN/checkout/ZNTXWYU5T4VHUYJBG77FGFFK)
 - [電子版・物理本セット（800円）](https://checkout.square.site/merchant/ML2WKTF6V60HN/checkout/NZHO4VGAEQVNPGZJ5W3TH7O3)
 
----
-
 ## 予想外の広がり
 
 技術書典や技書博などのイベントに参加したら、予想外のことが起きました。
