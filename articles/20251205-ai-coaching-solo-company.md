@@ -3,7 +3,7 @@ title: "AIに壁打ちしたら、ひとり会社の運営が楽になった話"
 emoji: "💬"
 type: "idea"
 topics: ["AI", "Claude", "ひとり会社", "ChatGPT", "壁打ち"]
-published: false
+published: true
 ---
 
 [1人アドベントカレンダー2025](https://zenn.dev/megusunu/articles/20251130-advent-calendar-2025#%E8%A8%98%E4%BA%8B%E4%B8%80%E8%A6%A7) 5日目。
