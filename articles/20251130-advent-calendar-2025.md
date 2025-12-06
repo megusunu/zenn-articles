@@ -108,7 +108,7 @@ PK/SKの設計思想、Scanを避けるための工夫、チームに設計意�
 | 12/3 | [Cookieサイズ制限4096バイトとの戦い——認証トークン保存とnginx設定の最適化](https://zenn.dev/megusunu/articles/20251203-cookie-size-limit) |
 | 12/4 | [エンジニアがペット用ニットウェアを作り始めた理由——編み物ビジネス試行錯誤の記録](https://zenn.dev/megusunu/articles/20251204-pet-knitwear) |
 | 12/5 | [AIに壁打ちしたら、ひとり会社の運営が楽になった話](https://zenn.dev/megusunu/articles/20251205-ai-coaching-solo-company) |
-| 12/6 | 技書博の懇親会で印刷会社の方と特殊印刷を語った話（準備中） |
+| 12/6 | [技術同人誌×特殊印刷──懇親会から始まった思考実験](https://zenn.dev/megusunu/articles/20251206-gishohaku-special-printing) |
 | 12/7 | ハンドメイドで売上5万円/月達成までのプロセス（準備中） |
 | 12/8 | ECS Fargateスケーリング戦略まとめ（準備中） |
 | 12/9 | Leafletで作るコンビニ分布マップ（準備中） |
